@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# macOS / SwiftPM local build output
+.DS_Store
+.build/
+.swiftpm/
+*.app/
+dist/
+
 # C extensions
 *.so
 
